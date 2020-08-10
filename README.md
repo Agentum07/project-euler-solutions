@@ -1,2 +1,2 @@
 # project-euler-solutions
-My take on project euler using python.
+Runnable code for solving Project Euler problems in Python.
